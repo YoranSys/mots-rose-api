@@ -1,18 +1,18 @@
 [
     {"name": "os","emoji": "🦴"},
-    {"name": "as","emoji": "🃏"},
     {"name": "âne","emoji": "🫏"},
-    {"name": "bol","emoji": "🥣"},
-    {"name": "dé","emoji": "🎲"},
-    {"name": "bus","emoji": "🚌"},
-    {"name": "vis","emoji": "🔩"},
-    {"name": "sac","emoji": "👜"},
-    {"name": "arc","emoji": "🏹"},
-    {"name": "ver","emoji": "🪱"},
-    {"name": "fil","emoji": "🧵"},
-    {"name": "sel","emoji": "🧂"},
-    {"name": "kiwi","emoji": "🥝"},
-    {"name": "lune","emoji": "🌙"},
-    {"name": "ara","emoji": "🦜"},
-    {"name": "vélo","emoji": "🚴‍♀️"}
+    {"name": "feu","emoji": "🔥"},
+    {"name": "poisson","emoji": "🐟"},
+    {"name": "astronaute","emoji": "🛰"},
+    {"name": "planète","emoji": "🌎"},
+    {"name": "étoile","emoji": "🌟"},
+    {"name": "pompier","emoji": "👮"},
+    {"name": "avion","emoji": "🛩"},
+    {"name": "bateau","emoji": "⛵"},
+    {"name": "camion de pompier","emoji": ""},
+    {"name": "citron","emoji": ""},
+    {"name": "avion de guerre","emoji": ""},
+    {"name": "bataille","emoji": ""}
+
 ]
+
